@@ -6,6 +6,7 @@
 .placeholder {
   font-size: 2rem;
   font-family: monospace;
+  min-height: 100vh;
 }
 
 .projectone {
@@ -17,5 +18,5 @@
 }
 
 .projectthree {
-  
+
 }

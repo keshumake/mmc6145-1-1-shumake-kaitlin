@@ -1,0 +1,10 @@
+.headermain {
+    height: 200px;
+    display: flex;
+    background-color: #19194f;
+}
+
+.headermain link {
+    color: #ffffff;
+    
+}
