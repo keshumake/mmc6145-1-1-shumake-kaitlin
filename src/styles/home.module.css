@@ -1,3 +1,21 @@
+.namecard {
+  display: flex;
+  height: 300px;
+}
+
 .placeholder {
-  font-size: 4rem;
+  font-size: 2rem;
+  font-family: monospace;
+}
+
+.projectone {
+
+}
+
+.projecttwo {
+
+}
+
+.projectthree {
+  
 }
