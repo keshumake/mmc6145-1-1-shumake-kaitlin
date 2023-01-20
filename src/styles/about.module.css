@@ -1,3 +1,9 @@
 .aboutmain {
-    
+    background-color: #faebd7;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
 }

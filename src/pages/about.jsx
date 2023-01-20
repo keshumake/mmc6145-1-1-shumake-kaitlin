@@ -4,7 +4,7 @@ export default function About() {
     return (
         <main className={styles.aboutmain}>
             <div>
-                <h1>Contact Me Below:</h1>
+                <h1>About Me</h1>
             </div>
         </main>
     )
