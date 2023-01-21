@@ -1,9 +1,21 @@
 .aboutmain {
     background-color: #faebd7;
-    min-height: 100vh;
+    min-height: 75vh;
     display: flex;
     flex-direction: column;
     align-content: center;
     justify-content: center;
     align-items: center;
 }
+
+div h1 {
+    font-family: monospace;
+    font-size: 3em;
+    padding: 75px;
+}
+
+div p {
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
