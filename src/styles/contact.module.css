@@ -1,4 +1,29 @@
 .contactmain {
-    font-size: 3em;
-    background-color: antiquewhite;
+    background-color: #faebd7;
+    min-height: 75vh;    
+    display: flex;
+    align-items: center;
+    align-content: center;
+    flex-direction: column;
 }
+
+.greeting {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.greeting h1 {
+    font-family: monospace;
+    font-size: 3em;
+    padding: 75px;
+}
+
+.contactinfo {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+

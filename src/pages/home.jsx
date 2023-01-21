@@ -7,10 +7,8 @@ export default function Home() {
     <main>
       <div className={styles.namecard}>
         <div className={styles.greeting}>
-          <h1>Kaitlin Shumake</h1>
           <h2>Thank you for visiting my portfolio site. Please see the projects
-          linked below!
-        </h2>
+          linked below!</h2>
         </div>
       </div>
       <div className={styles.placeholder}>
