@@ -55,10 +55,9 @@
 
 section {
   max-width: 700px;
-  min-width: 300px;
+  min-width: 500px;
   width: 100%;
   height: 500px;
-  margin-bottom: 50px;
 }
 
 .projectcard {
@@ -81,6 +80,7 @@ section {
   align-content: center;
   justify-content: center;
   align-items: center;
+  padding: 50px;
 }
 
 .projecttwo {
@@ -93,6 +93,7 @@ section {
   align-content: center;
   justify-content: center;
   align-items: center;
+  padding: 50px;
 }
 
 .projectthree {
@@ -105,6 +106,7 @@ section {
   align-content: center;
   justify-content: center;
   align-items: center;
+  padding: 50px;
 }
 
 section button {
